@@ -1,3 +1,5 @@
+初学ing，所以现在处于立项阶段。等学好了再回来开发。
+
 
 Installation information
 =======
